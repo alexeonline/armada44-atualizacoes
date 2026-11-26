@@ -1,7 +1,7 @@
 {
-  "versao": "0.4.0",
-  "setup": "armada44-setup-0.4.0.exe",
-  "sha256": "698924786b2b962875af48701460899d38cd0c63279a77c420458b8cc38d1b76",
-  "tamanho": 12769280,
-  "publicada": "2026-11-23"
+  "versao": "0.5.0",
+  "setup": "armada44-setup-0.5.0.exe",
+  "sha256": "5d536f969e49acc755268c29f45c82a879f5e4065123480601668e0e9162ab8d",
+  "tamanho": 12795392,
+  "publicada": "2026-11-26"
 }
